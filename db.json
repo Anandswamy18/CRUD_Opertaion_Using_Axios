@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "pname": "vimal",
+      "pprice": "6250",
+      "pqty": "52",
+      "id": 1
+    },
+    {
+      "pname": "baba",
+      "pprice": "6250",
+      "pqty": "52",
+      "id": 2
+    },
+    {
+      "pname": "akki",
+      "pprice": "1250",
+      "pqty": "2",
+      "id": 3
+    },
+    {
+      "pname": "asj",
+      "pprice": "500",
+      "pqty": "200",
+      "id": 6
+    },
+    {
+      "pname": "asss",
+      "pprice": "500",
+      "pqty": "2",
+      "id": 7
+    },
+    {
+      "pname": "anan",
+      "pprice": "500",
+      "pqty": "545",
+      "id": 8
+    },
+    {
+      "pname": "sugar",
+      "pprice": "4000",
+      "pqty": "10",
+      "id": 9
+    },
+    {
+      "pname": "bella",
+      "pprice": "4000",
+      "pqty": "1",
+      "id": 10
+    }
+  ]
+}
